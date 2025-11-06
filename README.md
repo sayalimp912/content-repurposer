@@ -9,6 +9,8 @@ Transform long-form content into platform-optimized posts instantly using AI.
 
 AI Content Repurposer is a web application that leverages Large Language Models to automatically transform blog posts, articles, and long-form content into platform-specific formats. Save hours of manual content adaptation with AI-powered text transformation.
 
+Demo - https://content-repurposer-iota.vercel.app/
+
 ## ✨ Features
 
 - **Multi-Platform Support**: Convert content to Twitter threads, LinkedIn posts, or Email newsletters
