@@ -98,33 +98,6 @@ fetch('https://api.groq.com/openai/v1/chat/completions', {
 ### Option 1: Local Use
 Simply open `index.html` in any browser - no server needed!
 
-### Option 2: Static Hosting (Recommended)
-Deploy to free static hosting services:
-
-**Vercel:**
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
-
-**Netlify:**
-- Drag and drop `index.html` to [Netlify Drop](https://app.netlify.com/drop)
-- Or connect your GitHub repository
-
-**GitHub Pages:**
-```bash
-# Push to GitHub
-git init
-git add .
-git commit -m "Initial commit"
-git push origin main
-
-# Enable GitHub Pages in repository settings
-```
-
 ## 🔮 Future Improvements
 
 - [ ] Add more platforms (Instagram captions, TikTok scripts, YouTube descriptions)
@@ -135,14 +108,6 @@ git push origin main
 - [ ] Chrome extension version
 - [ ] Backend proxy for API key security
 - [ ] Analytics dashboard for content performance
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
 
 ## 📝 License
 
